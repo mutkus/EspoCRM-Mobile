@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "5D3917D1-42C2-4E51-9FB2-B427957C622D",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "performanceAntipatternCheckerEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "EspoCRMKitTests",
+        "name" : "EspoCRMKitTests"
+      }
+    }
+  ],
+  "version" : 1
+}
